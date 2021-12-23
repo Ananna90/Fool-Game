@@ -1,0 +1,21 @@
+C:\Users\ASUS\source\repos\Fool Game 1.0\Fool Game 1.0\bin\Debug\net5.0-windows\Fool Game 1.0.exe
+C:\Users\ASUS\source\repos\Fool Game 1.0\Fool Game 1.0\bin\Debug\net5.0-windows\Fool Game 1.0.deps.json
+C:\Users\ASUS\source\repos\Fool Game 1.0\Fool Game 1.0\bin\Debug\net5.0-windows\Fool Game 1.0.runtimeconfig.json
+C:\Users\ASUS\source\repos\Fool Game 1.0\Fool Game 1.0\bin\Debug\net5.0-windows\Fool Game 1.0.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\Fool Game 1.0\Fool Game 1.0\bin\Debug\net5.0-windows\Fool Game 1.0.dll
+C:\Users\ASUS\source\repos\Fool Game 1.0\Fool Game 1.0\bin\Debug\net5.0-windows\ref\Fool Game 1.0.dll
+C:\Users\ASUS\source\repos\Fool Game 1.0\Fool Game 1.0\bin\Debug\net5.0-windows\Fool Game 1.0.pdb
+C:\Users\ASUS\source\repos\Fool Game 1.0\Fool Game 1.0\obj\Debug\net5.0-windows\Fool Game 1.0.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Fool Game 1.0\Fool Game 1.0\obj\Debug\net5.0-windows\Fool_Game_1._0.Form1.resources
+C:\Users\ASUS\source\repos\Fool Game 1.0\Fool Game 1.0\obj\Debug\net5.0-windows\Fool Game 1.0.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Fool Game 1.0\Fool Game 1.0\obj\Debug\net5.0-windows\Fool Game 1.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Fool Game 1.0\Fool Game 1.0\obj\Debug\net5.0-windows\Fool Game 1.0.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Fool Game 1.0\Fool Game 1.0\obj\Debug\net5.0-windows\Fool Game 1.0.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Fool Game 1.0\Fool Game 1.0\obj\Debug\net5.0-windows\Fool Game 1.0.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Fool Game 1.0\Fool Game 1.0\obj\Debug\net5.0-windows\Fool Game 1.0.dll
+C:\Users\ASUS\source\repos\Fool Game 1.0\Fool Game 1.0\obj\Debug\net5.0-windows\ref\Fool Game 1.0.dll
+C:\Users\ASUS\source\repos\Fool Game 1.0\Fool Game 1.0\obj\Debug\net5.0-windows\Fool Game 1.0.pdb
+C:\Users\ASUS\source\repos\Fool Game 1.0\Fool Game 1.0\obj\Debug\net5.0-windows\Fool Game 1.0.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\Fool Game 1.0\Fool Game 1.0\obj\Debug\net5.0-windows\Fool_Game_1._0.Form2.resources
+C:\Users\ASUS\source\repos\Fool Game 1.0\Fool Game 1.0\obj\Debug\net5.0-windows\Fool_Game_1._0.Form3.resources
+C:\Users\ASUS\source\repos\Fool Game 1.0\Fool Game 1.0\obj\Debug\net5.0-windows\Fool_Game_1._0.Properties.Resources.resources
